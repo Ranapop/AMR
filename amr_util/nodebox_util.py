@@ -1,5 +1,5 @@
 import en
-
+# This will be changed to pattern_util.py
 
 def simplify_word(word):
     try:
